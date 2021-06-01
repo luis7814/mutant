@@ -1,13 +1,13 @@
-co/com/mercadolibre/mutant/MutantApplication.java
- co.com.mercadolibre.mutant.MutantApplication
-co/com/mercadolibre/mutant/util/Constants.java
- co.com.mercadolibre.mutant.util.Constants
 co/com/mercadolibre/mutant/model/dto/Dna.java
  co.com.mercadolibre.mutant.model.dto.Dna
+co/com/mercadolibre/mutant/util/Constants.java
+ co.com.mercadolibre.mutant.util.Constants
 co/com/mercadolibre/mutant/service/SequenceService.java
  co.com.mercadolibre.mutant.service.SequenceService
 co/com/mercadolibre/mutant/service/DnaService.java
  co.com.mercadolibre.mutant.service.DnaService
+co/com/mercadolibre/mutant/MutantApplication.java
+ co.com.mercadolibre.mutant.MutantApplication
 co/com/mercadolibre/mutant/controller/StatisticController.java
  co.com.mercadolibre.mutant.controller.StatisticController
 co/com/mercadolibre/mutant/service/StatisticService.java

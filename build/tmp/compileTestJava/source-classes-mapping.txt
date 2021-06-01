@@ -1,0 +1,12 @@
+co/com/mercadolibre/mutant/MutantApplicationTests.java
+ co.com.mercadolibre.mutant.MutantApplicationTests
+co/com/mercadolibre/mutant/controller/DnaControllerTest.java
+ co.com.mercadolibre.mutant.controller.DnaControllerTest
+co/com/mercadolibre/mutant/controller/StatisticControllerTest.java
+ co.com.mercadolibre.mutant.controller.StatisticControllerTest
+co/com/mercadolibre/mutant/service/StatisticServiceTest.java
+ co.com.mercadolibre.mutant.service.StatisticServiceTest
+co/com/mercadolibre/mutant/service/SequenceServiceTest.java
+ co.com.mercadolibre.mutant.service.SequenceServiceTest
+co/com/mercadolibre/mutant/service/DnaServiceTest.java
+ co.com.mercadolibre.mutant.service.DnaServiceTest
